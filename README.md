@@ -4,12 +4,11 @@
 
 
 - 👲 Application Developer and Research Intern at `Tenfins Constulting`
-- 👯 I’m looking to collaborate on `YouTube`
+- 👯 I’m looking to collaborate on `YouTube` and interesting `Projects`
 - 🤔 Interested in `Backend Development`
 - 💬 Ask me about Technology in `Flutter`, `Automation` and `Anything you Like`
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Coffee is better than Tea
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Coffee is better than Tea!
 
 <details>
  <summary><b>GitHub Stats</b></summary>
