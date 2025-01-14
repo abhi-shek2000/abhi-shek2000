@@ -5,7 +5,6 @@
 
 - 👯 I’m looking to collaborate on `YouTube` or any interesting `Projects`
 - 🤔 Interested in `Backend Development`
-- 💬 Ask me about Technology in `Flutter`, `Automation` or `Anything you Like`
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coffee is better than Tea!
 
